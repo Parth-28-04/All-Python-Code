@@ -1,0 +1,10 @@
+list=[1,2,3,4,5,6,7,]
+list.append(23)
+list.append(63)
+#list.reverse()
+list.sort()
+list.remove(2)
+print(list)
+list.pop()
+list[3]=78
+print(list)

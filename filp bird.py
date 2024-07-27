@@ -1,0 +1,5 @@
+print("mohit")
+p1=input()
+print("selu")
+p2=input()
+print("result",int(p1)+int(p2))
